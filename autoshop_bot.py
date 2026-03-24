@@ -12,10 +12,10 @@ import sqlite3
 # ==========================================
 # ⚙️ CONFIGURATION
 # ==========================================
-BOT_TOKEN       = "TON_TOKEN_TELEGRAM_BOT"
+BOT_TOKEN       = "8628435813:AAG-RpDUGSpNaTWbPFgwaQuJe7ffRHY7E24"
 NOWPAYMENTS_KEY = "TON_API_KEY_NOWPAYMENTS"  # nowpayments.io → Settings → API Keys
-ADMIN_IDS       = [123456789]
-LOG_GROUP_ID    = -100987654321
+ADMIN_IDS       = [8704755112]
+LOG_GROUP_ID    = -5142753842
 DB_PATH         = "customers.db"
 NOWPAY_API      = "https://api.nowpayments.io/v1"
 COOLDOWN_SEC    = 15
