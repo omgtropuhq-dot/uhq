@@ -13,7 +13,7 @@ import sqlite3
 # ⚙️ CONFIGURATION
 # ==========================================
 BOT_TOKEN       = "8628435813:AAG-RpDUGSpNaTWbPFgwaQuJe7ffRHY7E24"
-NOWPAYMENTS_KEY = "TON_API_KEY_NOWPAYMENTS"  # nowpayments.io → Settings → API Keys
+NOWPAYMENTS_KEY = "2T93HR9-5CXME5G-H8C530Z-6Q1CR8F"  # nowpayments.io → Settings → API Keys
 ADMIN_IDS       = [8704755112]
 LOG_GROUP_ID    = -5142753842
 DB_PATH         = "customers.db"
