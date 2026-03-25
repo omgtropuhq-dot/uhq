@@ -13,10 +13,10 @@ import requests, subprocess, datetime, string, random, logging, time, sqlite3, j
 # ==========================================
 # ⚙️ CONFIGURATION
 # ==========================================
-BOT_TOKEN      = "TON_TOKEN_TELEGRAM_BOT"
-PLISIO_API_KEY = "TA_CLE_API_PLISIO"
-ADMIN_IDS      = [123456789]
-LOG_GROUP_ID   = -100987654321
+BOT_TOKEN      = "8628435813:AAG-RpDUGSpNaTWbPFgwaQuJe7ffRHY7E24"
+PLISIO_API_KEY = "b-WCYaL8vgyJobhvc-0eEt3nnwkHmPkmJhUdXB8JJeYR7DNegbyJpo0Z9ngKATNM"
+ADMIN_IDS      = [8704755112]
+LOG_GROUP_ID   = -5142753842
 DB_PATH        = "shop.db"
 PLISIO_API     = "https://plisio.net/api/v1"
 COOLDOWN_SEC   = 10
